@@ -2,15 +2,15 @@
   "schema": 1,
   "owner": "wanfirdaus01",
   "repo": "cloudsave",
-  "branch": "modermwarfare2",
+  "branch": "codmodermwarfare2",
   "mappings": [
     {
       "machine_id": "ad5e85ea46adca11ba4ddc9066508a4e4658e375",
       "machine_name": "DESKTOP-DCC8VP3",
       "path": "C:\\Users\\wanfi\\OneDrive\\Documents\\Call of Duty MWII",
       "os": "Windows",
-      "last_updated": "2026-03-16T23:46:15.847036+00:00"
+      "last_updated": "2026-03-15T23:48:05.116940+00:00"
     }
   ],
-  "updated_at": "2026-03-16T23:46:15.847036+00:00"
+  "updated_at": "2026-03-15T23:48:05.116940+00:00"
 }
